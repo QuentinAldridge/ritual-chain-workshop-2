@@ -106,3 +106,55 @@ betting model is plain pari-mutuel: two running totals and one mapping per side.
 - Ritual Chain docs — <https://docs.ritualfoundation.org>
 - dApp skills — <https://github.com/ritual-foundation/ritual-dapp-skills>
 - Explorer — <https://explorer.ritualfoundation.org> · Faucet — <https://faucet.ritualfoundation.org>
+# Hackathon Builder Edition
+
+
+## Features
+
+
+This version focuses on fast
+product experimentation.
+
+
+
+Added:
+
+
+- Multiple markets
+
+- User leaderboard
+
+- Reward system
+
+- Demo interface
+
+
+
+
+## Builder Reflection
+
+
+
+### Confusing Step
+
+
+The confusing part was deciding which
+features could create the biggest user
+impact within limited development time.
+
+
+
+### Difficulty
+
+
+The challenge was adding new gameplay
+features without changing the original
+prediction mechanism.
+
+
+
+### Solution
+
+
+I built independent modules so new
+features could be integrated gradually.
